@@ -1,0 +1,10 @@
+{
+    "Port":":8170",
+    "Certfile": "",
+    "Keyfile": "",
+	"CGSEndpoint": "tcp://bj-centos01:5858",
+	"LoginEndpoint": "http://bj-centos01:8080/check_session",
+	"RedisAddr":"localhost:6379",
+	"RedisPassword":"",
+	"RedisDatabase":1
+}
